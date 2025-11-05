@@ -5,5 +5,5 @@ MONGO_CLUSTER_URI=mongodb+srv://<username>:<password><cluster>.<>.mongodb.net
 JWT_SECRET=your_jwt_secret_here
 JWT_EXPIRES_IN=<days (2d)>
 
-.env.example
+.env
 VITE_API_URL=http://localhost:8000 
