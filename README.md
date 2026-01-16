@@ -10,5 +10,3 @@ talentFlow - Human Resource Management System
 8. npm run dev # starts the backend, before doing that please read .env.example 
 
 DONE!!
-
-![Register Org](C:\Users\HP\OneDrive\Desktop)
