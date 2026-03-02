@@ -255,10 +255,10 @@ export default function LandingPage() {
             <ul className="space-y-2 text-sm">
               <li>
                 Email:{" "}
-                <span className="text-gray-400">support@talentFlow.com</span>
+                <span className="text-gray-400">rohanmudholkar@talentFlow.com</span>
               </li>
               <li>
-                Phone: <span className="text-gray-400">+91 xxxxx xxxxx</span>
+                Phone: <span className="text-gray-400">+91 00000 00000</span>
               </li>
             </ul>
           </div>
