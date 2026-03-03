@@ -9,4 +9,5 @@ talentFlow - Human Resource Management System
 7. npm i
 8. npm run dev # starts the backend, before doing that please read .env.example 
 
+Live - talentflowbyrohan.vercel.app/
 DONE!!
